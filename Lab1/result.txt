@@ -1,0 +1,2 @@
+Result of div operation is 6
+Result of mul operation is 24
